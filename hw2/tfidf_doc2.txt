@@ -1,0 +1,5 @@
+(couch,0.29)
+(dog,0.29)
+(sleep,0.29)
+(lazy,0.2)
+(quick,0.2)

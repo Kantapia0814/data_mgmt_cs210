@@ -1,0 +1,5 @@
+(became,0.23)
+(day,0.23)
+(every,0.23)
+(friends,0.23)
+(play,0.23)

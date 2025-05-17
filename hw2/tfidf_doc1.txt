@@ -1,0 +1,5 @@
+(quick,0.31)
+(brown,0.23)
+(clever,0.23)
+(jumps,0.23)
+(fox,0.22)
